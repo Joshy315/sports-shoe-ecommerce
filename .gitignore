@@ -1,0 +1,34 @@
+# Database configuration (contains sensitive data)
+config.php
+
+# Database files
+*.sql
+db/
+
+# Uploaded images and user content
+uploaded_img/
+member profile image/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Environment files
+.env
+.env.local

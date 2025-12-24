@@ -5,10 +5,10 @@ A full-featured online shopping platform for sports shoes built with PHP, MySQL,
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/products.png)
 
 ### Products Page
-![Products Page](screenshots/products.png)
+![Products Page]screenshots/homepage.png)
 
 ## Features
 

@@ -219,10 +219,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-**Developer**: Zaid
-**Email**: Ahmad_Zaid055@icloud.com
-**Phone**: 01116911925
-**Address**: PD2/120 Jalan Rompin Lama, Pekan Pahang 26600
+**Developer**: Haziq, Zaid
+**Email**: haziqsabri8@gmail.com
+**Phone**: 011-56642943
+**Address**: 10, Jalan Melor 1A/1, Rawang, Selangor
 
 ## Acknowledgments
 
